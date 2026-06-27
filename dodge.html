@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dodge Challenger With Stand | Mini Vandi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">Mini Vandi</div>
+
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html#products">Products</a></li>
+        </ul>
+    </nav>
+
+    <section class="product-detail">
+
+        <div class="product-image">
+
+            <div class="image-box">
+                <img id="main-image" src="images/bluedod.jpeg" alt="Dodge Challenger">
+                <!--<img id="red-dodge" src="images/reddod.jpeg" alt="Dodge Challenger">
+                <img id="yellow-dodge" src="images/yellowdod.jpeg" alt="Dodge Challenger">
+                <img id="black-dodge" src="images/bldod.jpeg" alt="Dodge Challenger">-->
+                
+            </div>
+
+          
+
+        </div>
+
+        <div class="product-info">
+
+            <span class="badge">🔥 Best Seller</span>
+
+            <h1>Dodge Challenger With Stand</h1>
+
+            <div class="price">₹199</div>
+
+            <p class="delivery-note">
+    + ₹50 Delivery Charge
+    </p>
+
+    <div class="select-group">
+
+    <label>Quantity</label>
+
+    <select id="qty" onchange="updateTotal()">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+        
+    </select>
+
+</div>
+
+<p id="total-price">
+    Total: ₹249
+</p>
+
+            <p class="description">
+                Premium 1:64 scale Dodge Challenger die-cast model with display stand.
+                A perfect collectible for enthusiasts and miniature car collectors.
+            </p>
+
+            <div class="details">
+
+                <div class="detail">
+                    🚚 Delivery: 3–4 Days
+                </div>
+
+                <div class="detail">
+                    ⭐ Collector's Edition
+                </div>
+
+                <div class="detail">
+                    ✔ Premium Quality
+                </div>
+
+                <div class="detail">
+                    📦 Secure Packaging
+                </div>
+
+            </div>
+
+            <div class="select-group">
+
+                <label for="color">Color</label>
+
+                <select id="color" onchange="changeColor()">
+                    <option value="blue">Blue</option>
+    <option value="red">Red</option>
+    <option value="black">Black</option>
+                </select>
+
+            </div>
+
+            <button class="buy-btn" onclick="buyProduct()">
+                Buy Now
+            </button>
+
+        </div>
+
+    </section>
+
+
+
+
+<script src="script.js"></script>
+</body>
+
+</html>
