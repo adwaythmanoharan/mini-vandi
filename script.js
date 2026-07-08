@@ -63,14 +63,14 @@ const products = {
 
         name: "CCA BMW M4",
 
-        price: 499,
+        price: 450,
 
         description:
         "Premium CCA BMW M4 die-cast model.",
 
         colors: {
 
-            Yellow: ["images/m4f.jpg",
+            Green: ["images/m4f.jpg",
                 "images/m4s1.jpg",
                 "images/m4s2.jpg"
             ]
