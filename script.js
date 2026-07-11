@@ -11,11 +11,11 @@ const products = {
 
         colors: {
 
-            Blue: "images/bluedod.jpeg",
+            Blue: ["images/bluedod.jpeg"],
 
-            Red: "images/reddod.jpeg",
+            Red: ["images/reddod.jpeg"],
 
-            Black: "images/bldod.jpeg"
+            Black: ["images/bldod.jpeg"]
 
         }
 
@@ -32,10 +32,10 @@ const products = {
 
         colors: {
 
-            Yellow: "images/ye.jpg",
-            Red: "images/ree.jpg",
-            Black: "images/blaa.jpg",
-            Green: "images/gree.jpg"
+            Yellow: ["images/ye.jpg"],
+            Red: ["images/ree.jpg"],
+            Blue: ["images/blaa.jpg"],
+            Green: ["images/gree.jpg"]
             
 
         }
@@ -53,7 +53,7 @@ const products = {
 
         colors: {
 
-            Black: "images/blacksta.jpg"
+            Black: ["images/blacksta.jpg"]
 
         }
 
