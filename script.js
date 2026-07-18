@@ -104,7 +104,7 @@ const products = {
 
         name: "Mustang Inspired",
 
-        price: 220,
+        price: 199,
 
         description:
         "Premium Mustang Inspired die-cast model.",
