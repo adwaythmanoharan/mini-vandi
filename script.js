@@ -175,6 +175,122 @@ const products = {
 
     },
 
+    premstand: {
+
+        name: "1:36 Stand",
+
+        price: 90,
+
+        description:
+        "Premium 1:36 Stand.",
+
+        colors: {
+
+            Black: ["images/bl.jpg",
+                
+            ],
+
+             White: ["images/wh.jpg",
+                
+            ],
+
+             Red: ["images/red.jpg",
+                
+            ],
+
+            
+
+        }
+
+    },
+
+    comstand: {
+
+        name: "1:36 Combo Stand",
+
+        price: 365,
+
+        description:
+        "Premium 1:36 Stands.",
+
+        colors: {
+
+            Black: ["images/wb.jpg",
+                
+            ],
+
+             White: ["images/wc.jpg",
+                
+            ],
+
+             Red: ["images/wr.jpg",
+                
+            ],
+
+            
+
+        }
+
+    },
+
+     prem2stand: {
+
+        name: "1:64 Stand",
+
+        price: 60,
+
+        description:
+        "Premium 1:64 Stand.",
+
+        colors: {
+
+            Black: ["images/bl.jpg",
+                
+            ],
+
+             White: ["images/wh.jpg",
+                
+            ],
+
+             Red: ["images/red.jpg",
+                
+            ],
+
+            
+
+        }
+
+    },
+
+    com2stand: {
+
+        name: "1:64 Combo Stand",
+
+        price: 200,
+
+        description:
+        "Premium 1:64 Stands.",
+
+        colors: {
+
+            Black: ["images/wb.jpg",
+                
+            ],
+
+             White: ["images/wc.jpg",
+                
+            ],
+
+             Red: ["images/wr.jpg",
+                
+            ],
+
+            
+
+        }
+
+    },
+
 
 
 };
