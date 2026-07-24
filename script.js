@@ -53,7 +53,7 @@ const products = {
 
         colors: {
 
-            Black: ["images/bsta.jpg"]
+            Black: ["images/pss.jpg"]
 
         }
 
@@ -284,6 +284,75 @@ const products = {
              Red: ["images/wr.jpg",
                 
             ],
+
+            
+
+        }
+
+    },
+
+    cone: {
+
+        name: "24 Small cones",
+
+        price: 100,
+
+        description:
+        "Premium cones.",
+
+        colors: {
+
+            Default: ["images/cone.jpg",
+                
+            ],
+
+            
+
+            
+
+        }
+
+    },
+
+    badge: {
+
+        name: "Bmw badge 1:64 stand",
+
+        price: 99,
+
+        description:
+        "Premium stand.",
+
+        colors: {
+
+            Default: ["images/bmst.jpg",
+                
+            ],
+
+            
+
+            
+
+        }
+
+    },
+
+    mrp: {
+
+        name: "Hot wheels mrp price",
+
+        price: 299,
+
+        description:
+        "how wheel cars for mrp prices,limited stocks",
+
+        colors: {
+
+            Default: ["images/mrp.jpg",
+                
+            ],
+
+            
 
             
 
